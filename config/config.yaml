@@ -1,0 +1,8 @@
+# C:\Users\Asus\Downloads\plexiform-guide-458805-j8-e367569eadc8.json
+
+data_ingestion:
+  bucket_name: "anime-recommender-data"
+  bucket_file_name:
+    - "anime.csv"
+    - "anime_with_synopsis.csv"
+    - "animelist.csv"
