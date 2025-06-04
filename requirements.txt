@@ -3,3 +3,6 @@ numpy
 setuptools
 google-cloud-storage
 pyyaml
+tensorflow
+wordcloud
+matplotlib
