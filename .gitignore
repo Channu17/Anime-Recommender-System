@@ -51,7 +51,10 @@ coverage.xml
 .pytest_cache/
 cover/
 anenv/
-artifacts/
+# DVC - ignore data files but track .dvc files
+artifacts/*
+!artifacts/*.dvc
+!artifacts/**/*.dvc
 # Translations
 *.mo
 *.pot
